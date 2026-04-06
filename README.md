@@ -7,7 +7,7 @@ This is a Power BI dashboard analyzing 9,800 Superstore transactions (2015–201
 ![Overview](overview.png)
 ![Revenue Trends](revenue_and_sales_trends.png)
 ![Segments & Categories](segment_and_category_performance.png)
-![Regional Performance](regional-performance.png)
+![Regional Performance](regional_performance.png)
 
 ## Files
 - `Revenue_and_Performance_Dashboard_2015_-_2018.pbix` — Power BI source file
